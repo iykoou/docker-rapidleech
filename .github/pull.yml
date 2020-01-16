@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: master
+    upstream: Th3-822/rapidleech:master
+    mergeMethod: merge
